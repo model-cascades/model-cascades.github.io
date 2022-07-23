@@ -3,5 +3,5 @@ theme: jekyll-theme-slate
 # Name of website
 title: Language Model Cascades
 social-network-links:
-  github: google-research/cascade
+  github: google-research/cascades
 google_analytics: UA-235240821-1
